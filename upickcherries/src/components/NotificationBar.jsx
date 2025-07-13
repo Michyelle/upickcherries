@@ -2,7 +2,7 @@ export default function NotificationBar() {
     return (
         <>
         <div className="notification-bar">
-            <img src="src/assets/react.svg" className="img-announcement" alt="sd" />
+            <img src="src/assets/cherry.png" className="img-announcement" alt="sd" />
 
             <div className="left-announcement">
                 <p>Villa Del Sol</p>
@@ -16,7 +16,7 @@ export default function NotificationBar() {
                 <p>Saturday & Sunday: 7am to 2pm</p>
             </div>
             
-            <img src="src/assets/react.svg" className="img-announcement" alt="sd" />
+            <img src="src/assets/cherry.png" className="img-announcement" alt="sd" />
         </div>
         </>
     )

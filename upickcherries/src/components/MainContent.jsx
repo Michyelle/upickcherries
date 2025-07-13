@@ -2,7 +2,7 @@ export default function MainContent() {
     return (
         <main className="home-main-container">
             <div>
-                <img src="src/assets/react.svg" className="home-main-img" alt="sd" />
+                <img src="src/assets/banner.png" className="home-main-img-1" alt="banner image" />
             </div>
             
             <div className="main-body">
@@ -37,9 +37,9 @@ export default function MainContent() {
 
                 <div className="main-content">
                     <h1>Welcome to Villa del Sol! U-Pick Cherries in Leona Valley</h1>
-                    <img src="src/assets/react.svg" className="home-main-img" alt="sd" />
-                    <img src="src/assets/react.svg" className="home-main-img" alt="sd" />
-                    <img src="src/assets/react.svg" className="home-main-img" alt="sd" />
+                    <img src="src/assets/ex1.png" className="ex-pic" alt="sd" />
+                    <img src="src/assets/ex2.png" className="ex-pic" alt="sd" />
+                    <img src="src/assets/ex3.png" className="ex-pic" alt="sd" />
 
                     <p><b>It will be a short season for cherry picking this year so come now! We have lots 
                         of cherries now. Weekdays are a great time to pick.</b></p>
