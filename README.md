@@ -16,7 +16,9 @@ A modern React based redesign of the **Villa del Sol Sweet Cherry Farms** websit
 
 ## 📸 Screenshots
 ### Homepage  
-
+<img width="1089" height="906" alt="upickmecherrythumbnail" src="https://github.com/user-attachments/assets/f8365b24-f97e-48f3-928f-f575954538d0" />
+<img width="931" height="880" alt="mainbody" src="https://github.com/user-attachments/assets/d8a8e84d-6661-409f-ad23-ffbed7b58c04" />
+<img width="939" height="335" alt="footer" src="https://github.com/user-attachments/assets/fed6cc1b-1fa7-4af4-92d3-a0f88850404d" />
 
 ---
 
